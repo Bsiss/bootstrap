@@ -53,10 +53,9 @@ body input {
 }
 
 .site-content {
-    background-image: url('/img/Plant.jpg');
+    background-image: url('/img/plant.jpg');
     background-attachment: fixed;
     background-size: cover;
-    z-index: 100;
 }
 
 .site-title, site-desc{
