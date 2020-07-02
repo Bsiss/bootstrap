@@ -53,7 +53,7 @@ body input {
 }
 
 .site-content {
-    background-image: url('/img/planttop.jpg');
+    background-image: url('../img/planttop.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -132,7 +132,7 @@ body input {
 
 
 .section-2 .container-fluid {
-    background-image: url(/img/neon3.jpg);
+    background-image: url(../img/neon3.jpg);
     background-size: cover;
     background-attachment: none;
 
